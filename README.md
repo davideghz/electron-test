@@ -2,6 +2,27 @@
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
 
+## start
+
+1. clone the repo
+
+```bash
+git clone git@github.com:davideghz/electron-test.git
+```
+
+2. cd into the project and install dependencies
+
+```bash
+cd electron-test
+npm i
+```
+
+3. start the app
+
+```bash
+npm start
+```
+
 ## build
 
 1. Import Electron Forge to your app folder:
